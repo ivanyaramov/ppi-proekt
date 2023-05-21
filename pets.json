@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "name": "Fluffy",
+    "species": "Cat",
+    "age": 2,
+    "price": 30,
+    "image": "https://placekitten.com/200/300",
+    "description": "Fluffy is a friendly and playful cat who loves to cuddle."
+  },
+  {
+    "id": 2,
+    "name": "Buddy",
+    "species": "Dog",
+    "age": 4,
+    "price": 10,
+    "image": "https://placedog.net/200/300",
+    "description": "Buddy is a loyal and energetic dog who loves to play fetch."
+  },
+  {
+    "id": 3,
+    "name": "Nibbles",
+    "species": "Hamster",
+    "age": 1,
+    "price": 20,
+    "image": "https://placehamster.com/200/300",
+    "description": "Nibbles is a cute and cuddly hamster who loves to run on his wheel."
+  },
+  {
+    "id": 4,
+    "name": "Shadow",
+    "species": "Cat",
+    "age": 3,
+    "price": 25,
+    "image": "https://placekitten.com/200/300",
+    "description": "Shadow is a sleek and mysterious cat who loves to nap in the sun."
+  },
+  {
+    "id": 5,
+    "name": "Max",
+    "species": "Dog",
+    "age": 2,
+    "price": 15,
+    "image": "https://placedog.net/200/300",
+    "description": "Max is a friendly and obedient dog who loves to go on walks."
+  },
+  {
+    "id": 6,
+    "name": "Squeakers",
+    "species": "Hamster",
+    "age": 1,
+    "price": 18,
+    "image": "https://placehamster.com/200/300",
+    "description": "Squeakers is a tiny and adorable hamster who loves to eat seeds."
+  },
+  {
+    "id": 7,
+    "name": "Mittens",
+    "species": "Cat",
+    "age": 1,
+    "price": 35,
+    "image": "https://placekitten.com/200/300",
+    "description": "Mittens is a playful and curious cat who loves to explore."
+  },
+  {
+    "id": 8,
+    "name": "Rocky",
+    "species": "Dog",
+    "age": 3,
+    "price": 12,
+    "image": "https://placedog.net/200/300",
+    "description": "Rocky is a tough and adventurous dog who loves to hike in the mountains."
+  },
+  {
+    "id": 9,
+    "name": "Whiskers",
+    "species": "Hamster",
+    "age": 2,
+    "price": 22,
+    "image": "https://placehamster.com/200/300",
+    "description": "Whiskers is a cute and cuddly hamster who loves to nibble on carrots."
+  },
+  {
+    "id": 10,
+    "name": "Tiger",
+    "species": "Cat",
+    "age": 4,
+    "price": 30,
+    "image": "https://placekitten.com/200/300",
+    "description": "Tiger is a regal and majestic cat who loves to lounge on his throne."
+  },
+  {
+    "id": 11,
+    "name": "Bear",
+    "species": "Dog",
+    "age": 1,
+    "price": 8,
+    "image": "https://placedog.net/200/300",
+    "description": "Bear is a cute and cuddly puppy who loves to play with his toys."
+  },
+  {
+    "id": 12,
+    "name": "Nibbler",
+    "species": "Hamster",
+    "age": 1,
+    "price": 15,
+    "image": "https://placehamster.com/200/300",
+    "description": "Nibbler is a tiny and curious hamster who loves to chew on things."
+  },
+  {
+    "id": 13,
+    "name": "Princess",
+    "species": "Cat",
+    "age": 2,
+    "price": 40,
+    "image": "https://placekitten.com/200/300",
+    "description": "Princess is a beautiful and elegant cat who loves to be pampered."
+  },
+  {
+    "id": 14,
+    "name": "Rufus",
+    "species": "Dog",
+    "age": 5,
+    "price": 20,
+    "image": "https://placedog.net/200/300",
+    "description": "Rufus is a loyal and protective dog who loves to play in the park."
+  },
+  {
+    "id": 15,
+    "name": "Pipsqueak",
+    "species": "Hamster",
+    "age": 1,
+    "price": 19,
+    "image": "https://placehamster.com/200/300",
+    "description": "Pipsqueak is a tiny and adorable hamster who loves to crawl in tubes."
+  },
+  {
+    "id": 16,
+    "name": "Simba",
+    "species": "Cat",
+    "age": 3,
+    "price": 35,
+    "image": "https://placekitten.com/200/300",
+    "description": "Simba is a brave and adventurous cat who loves to explore the jungle."
+  },
+  {
+    "id": 17,
+    "name": "Charlie",
+    "species": "Dog",
+    "age": 2,
+    "price": 18,
+    "image": "https://placedog.net/200/300",
+    "description": "Charlie is a friendly and playful dog who loves to chase his tail."
+  },
+  {
+    "id": 18,
+    "name": "Niblet",
+    "species": "Hamster",
+    "age": 1,
+    "price": 17,
+    "image": "https://placehamster.com/200/300",
+    "description": "Niblet is a curious and active hamster who loves to run on his wheel."
+  },
+  {
+    "id": 19,
+    "name": "Luna",
+    "species": "Cat",
+    "age": 1,
+    "price": 30,
+    "image": "https://placekitten.com/200/300",
+    "description": "Luna is a cute and cuddly cat who loves to play with string."
+  },
+  {
+    "id": 20,
+    "name": "Cooper",
+    "species": "Dog",
+    "age": 4,
+    "price": 22,
+    "image": "https://placedog.net/200/300",
+    "description": "Cooper is a friendly and loyal dog who loves to go on long walks."
+  },
+  {
+    "id": 21,
+    "name": "Snuggles",
+    "species": "Hamster",
+    "age": 2,
+    "price": 25,
+    "image": "https://placehamster.com/200/300",
+    "description": "Snuggles is a cute and cuddly hamster who loves to nap in his cozy bed."
+  }
+]

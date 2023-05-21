@@ -1,0 +1,31 @@
+footer {
+  position: absolute;
+  left: 100px;
+  right: 0px;
+  width: 90%;
+  background-color: #6c5ce7;
+  color: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.footer-center {
+  display: flex;
+  justify-content: space-evenly;
+}
+.contacts {
+  padding-top: 17px;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.icon {
+  width: 30px;
+  height: 30px;
+  margin: 0 10px;
+  color: white;
+}

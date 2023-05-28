@@ -34,8 +34,10 @@ function ItemDetails() {
         <img src={pet.image} alt={pet.name} className="pet-image" />
         <div className="pet-info">
           <p>Species: {pet.species}</p>
-          <p>Age: {pet.age} years old</p>
-          <p>Price: ${pet.price}</p>
+          <p>Brand: {pet.Brand}</p>
+          <p>Package: {pet.Package}</p>
+          <p>Price: {pet.price}$</p>
+          <p>{pet.descritpion}</p>
         </div>
         <p className="pet-description">{pet.description}</p>
       </div>

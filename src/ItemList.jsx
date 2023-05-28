@@ -103,13 +103,12 @@ function PetList({ history }) {
 
         <ul>
           {currentItems.map((pet) => (
-            <div className="pet">
-              <li key={pet.id} onClick={() => handleClick(pet.id)}>
+            <div className="pet" key={pet.id}>
+              <li onClick={() => handleClick(pet.id)}>
                 <img src={pet.image} alt={pet.name} />
-                <h3>{pet.name}</h3>
-                <p>{pet.species}</p>
-                <p>{pet.price}</p>
-                <p>{pet.age} years old</p>
+                <h3>Name: {pet.name}</h3>
+                <p>Brand: {pet.Brand}</p>
+                <p>Price: {pet.price}$</p>
               </li>
             </div>
           ))}

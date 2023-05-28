@@ -35,7 +35,7 @@ function PetDetails() {
         <div className="pet-info">
           <p>Species: {pet.species}</p>
           <p>Age: {pet.age} years old</p>
-          <p>Price: ${pet.price}</p>
+          <p>Price: {pet.price}$</p>
         </div>
         <p className="pet-description">{pet.description}</p>
       </div>

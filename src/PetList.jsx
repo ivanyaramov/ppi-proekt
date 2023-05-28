@@ -121,9 +121,9 @@ function PetList({ history }) {
               <li key={pet.id} onClick={() => handleClick(pet.id)}>
                 <img src={pet.image} alt={pet.name} />
                 <h3>{pet.name}</h3>
-                <p>{pet.species}</p>
-                <p>{pet.price}</p>
-                <p>{pet.age} years old</p>
+                <p>Species: {pet.species}</p>
+                <p>Price {pet.price}$</p>
+                <p>Age: {pet.age} years old</p>
               </li>
             </div>
           ))}

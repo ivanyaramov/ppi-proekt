@@ -32,7 +32,7 @@
     "id": 4,
     "name": "Dog Toy",
     "Brand": "Camon",
-    "material": "Fabric",
+    "Package": "Fabric",
     "price": 5.8,
     "image": "",
     "description": "Fun fabric dog toy in the shape of a bone. Available in different colors."
@@ -41,7 +41,7 @@
     "id": 5,
     "name": "Cat Toy",
     "Brand": "Camon ",
-    "material": "plush",
+    "Package": "plush",
     "price": 6.3,
     "image": "",
     "description": "A mouse with a rope tail for your kitty."
@@ -50,7 +50,7 @@
     "id": 6,
     "name": "Hamster toy",
     "Brand": "Camon",
-    "material": "Durable bamboo",
+    "Package": "Durable bamboo",
     "price": 23,
     "image": "",
     "description": "This product features 5 unique foraging designs that provide a variety of foraging experiences for small pets. The most intriguing of these is likely the bamboo foraging roll, which is sure to leave your little critters ecstatic."
@@ -59,7 +59,7 @@
     "id": 7,
     "name": "Bird Cage",
     "Brand": "Vision",
-    "Size": "Large",
+    "Package": "Large",
     "price": 79.99,
     "image": "",
     "description": "This spacious bird cage by Vision provides ample room for your feathered friend to move and explore. The cage features multiple perches, feeding dishes, and a convenient slide-out tray for easy cleaning. Its innovative design ensures excellent ventilation and visibility for your bird's well-being"
@@ -69,7 +69,7 @@
     "id": 8,
     "name": "Fish tank",
     "Brand": "Fluval ",
-    "Size": "50L",
+    "Package": "50L",
     "price": 129.99,
     "image": "",
     "description": "Create a stunning aquatic display with the Fluval fish tank. Made from high-quality glass, this tank offers a clear view of your underwater world. It includes a powerful filtration system, LED lighting, and a heater, providing a comfortable and healthy environment for your fish. The tank's sleek design will enhance any living space"
@@ -78,7 +78,7 @@
     "id": 9,
     "name": "Rabbit Hutch",
     "Brand": "Midwest Homes for Pets",
-    "Size": "Extra Large",
+    "Package": "Extra Large",
     "price": 189.99,
     "image": "",
     "description": "Give your rabbit a cozy and secure home with this spacious hutch. The hutch features multiple levels, a comfortable resting area, and a separate enclosed section for privacy. It is built with durable materials and includes a removable tray for easy cleaning. The hutch also has a wire mesh design to ensure proper ventilation"
@@ -87,7 +87,7 @@
     "id": 10,
     "name": "Reptile Terrarium",
     "Brand": "Exo Terra",
-    "Size": "Medium",
+    "Package": "Medium",
     "price": 89.99,
     "image": "",
     "description": "Create a natural habitat for your reptile with the Exo Terra terrarium. This glass enclosure provides optimal visibility and comes with a secure locking system. It features a waterproof bottom, multiple access points, and integrated lighting fixtures for easy setup. The terrarium offers a safe and comfortable living space for your scaly companion"
@@ -96,7 +96,7 @@
     "id": 11,
     "name": "Small Animal Bedding",
     "Brand": "Kaytee ",
-    "Type": "Natural Paper Bedding",
+    "Package": "Natural Paper Bedding",
     "price": 9.99,
     "image": "",
     "description": "Keep your small pet's habitat clean and cozy with Kaytee natural paper bedding. Made from recycled paper, this bedding is highly absorbent, controls odors, and is dust-free, ensuring a comfortable and healthy environment. It's ideal for small animals like hamsters, guinea pigs, and rabbits."
@@ -106,7 +106,7 @@
     "id": 12,
     "name": "Dog Collar",
     "Brand": "Ruffwear ",
-    "Size": "Medium",
+    "Package": "Medium",
     "price": 29.99,
     "image": "",
     "description": "This durable and stylish dog collar by Ruffwear is designed for active dogs. It features a comfortable padded lining, a sturdy buckle closure, and a separate attachment point for ID tags. The collar also has reflective trim for increased visibility during nighttime walks, ensuring your furry friend stays safe and secure."
@@ -116,7 +116,7 @@
     "id": 13,
     "name": "Cat Litter",
     "Brand": "World's Best Cat Litter ",
-    "Size": "7kg",
+    "Package": "7kg",
     "price": 14.99,
     "image": "",
     "description": "Keep your cat's litter box fresh and odor-free with World's Best Cat Litter. This premium clumping litter is made from natural corn, providing excellent odor control and easy scooping. It is also flushable and septic-safe, making cleanup a breeze. Give your cat a comfortable and hygienic litter experience with this top-quality product"
@@ -126,7 +126,7 @@
     "id": 14,
     "name": "Fish Food",
     "Brand": "Tetra ",
-    "Size": "80g",
+    "Package": "80g",
     "price": 5.99,
     "image": "",
     "description": "Nourish your tropical fish with Tetra Tropical Flakes. These nutrient-rich flakes provide a balanced diet for a variety of tropical fish species. Packed with essential vitamins and minerals, they promote vibrant colors and optimal health. The flakes are easy to digest and help maintain clear water. Treat your fish to a tasty and nutritious meal with this trusted brand"
@@ -176,7 +176,7 @@
     "id": 19,
     "name": "Snake Hide",
     "Brand": "Zoo Med ",
-    "Size": "Medium",
+    "Package": "Medium",
     "price": 15.99,
     "image": "",
     "description": "A naturalistic hideout for snakes, designed to mimic their natural environment. The hide provides a secure and stress-free retreat for your pet snake. It is made of non-toxic materials and has a realistic rock-like appearance."
@@ -186,7 +186,7 @@
     "id": 20,
     "name": "Turtle Tank Heater",
     "Brand": "Fluval ",
-    "Wattage": "100W",
+    "Package": "100W",
     "price": 29.99,
     "image": "",
     "description": "A reliable and adjustable heater specifically designed for turtle tanks. It ensures a consistent and comfortable water temperature for your aquatic turtles. The heater has a compact design and is easy to install and maintain."
@@ -196,7 +196,7 @@
     "id": 21,
     "name": "Small Animal Nail Trimme",
     "Brand": "Kaytee ",
-    "Size": "30cm",
+    "Package": "30cm",
     "price": 8.99,
     "image": "",
     "description": "A safe and effective tool for trimming the nails of small animals such as rabbits, guinea pigs, and ferrets. The trimmer has a comfortable grip and a stainless steel blade that provides precise cutting. Regular nail trimming helps maintain your pet's nail health and prevents overgrowth"
@@ -206,7 +206,7 @@
     "id": 21,
     "name": "Dog Collar",
     "Brand": "Blueberry Pet ",
-    "Size": "Medium",
+    "Package": "Medium",
     "price": 14.9,
     "image": "",
     "description": "A stylish and durable dog collar made from high-quality nylon material. It features an adjustable buckle for a comfortable fit and a D-ring for leash attachment. The collar is available in various colors and patterns to suit your dog's style"
@@ -226,7 +226,7 @@
     "id": 23,
     "name": "Reptile UVB Bulb",
     "Brand": "Exo Terra ",
-    "Wattage": "13W",
+    "Package": "13W",
     "price": 24.99,
     "image": "",
     "description": "A specialized UVB bulb for reptiles that require UVB light for proper calcium metabolism and vitamin D3 synthesis. The bulb emits optimal UVB wavelengths to support reptile health and natural behaviors. It is suitable for terrariums and vivariums."

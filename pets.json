@@ -4,8 +4,8 @@
     "name": "Fluffy",
     "species": "Cat",
     "age": 2,
-    "price": 30,
-    "image": "https://placekitten.com/200/300",
+    "price": 850,
+    "image": "https://www.thesprucepets.com/thmb/MzKr6fC-v8W4D4oz2p9wWCwAFms=/2119x0/filters:no_upscale():strip_icc()/GettyImages-1189893683-e0ff70596b3b4f0687ba573e5a671f74.jpg",
     "description": "Fluffy is an adorable and playful cat of the Maine Coon breed, known for its friendly nature and fluffy coat. With Fluffy, you'll enjoy endless cuddles and interactive playtime. Taking care of Fluffy is a breeze, as Maine Coons are generally low-maintenance cats that thrive in a loving environment."
   },
   {
@@ -13,8 +13,8 @@
     "name": "Buddy",
     "species": "Dog",
     "age": 4,
-    "price": 10,
-    "image": "https://placedog.net/200/300",
+    "price": 1650,
+    "image": "https://www.marthastewart.com/thmb/gCXKR-31DYnpsLi7uUj0S4zyfqc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/happy-labrador-retriever-getty-0322-2000-eb585d9e672e47da8b1b7e9d3215a5cb.jpg",
     "description": "Buddy is an energetic and loyal Labrador Retriever. This breed is known for its playful nature and love for outdoor activities. With Buddy, you'll have a constant companion for games of fetch and long walks in the park. While Labs require regular exercise and socialization, they are intelligent and easily trainable, making them a great choice for active individuals or families."
   },
   {
@@ -22,8 +22,8 @@
     "name": "Nibbles",
     "species": "Hamster",
     "age": 1,
-    "price": 20,
-    "image": "https://placehamster.com/200/300",
+    "price": 110,
+    "image": "https://cdn.shopify.com/s/files/1/0424/4606/1723/files/Syrian-Hamster_grande.jpg?v=1594383125",
     "description": "Nibbles is an adorable and cuddly Syrian hamster. As a hamster owner, you'll enjoy watching Nibbles run on his wheel and explore his surroundings. Syrian hamsters are relatively easy to take care of, requiring a comfortable cage, fresh food, and regular interaction. Nibbles will bring joy to your life with his cute antics and gentle nature."
   },
   {
@@ -31,8 +31,8 @@
     "name": "Shadow",
     "species": "Cat",
     "age": 3,
-    "price": 25,
-    "image": "https://placekitten.com/200/300",
+    "price": 2600,
+    "image": "https://www.purina.co.uk/sites/default/files/styles/square_medium_440x440/public/2022-06/Bombay-Cat.jpg?itok=gxXm3cCu",
     "description": "Shadow is a sleek and mysterious black cat of the Bombay breed. With Shadow, you'll have a feline companion that loves to nap in sunny spots and observe the world around him. Bombays are known for their affectionate and social personalities, making them great family pets. Taking care of Shadow is easy, as he requires regular grooming to maintain his shiny coat."
   },
   {
@@ -40,8 +40,8 @@
     "name": "Max",
     "species": "Dog",
     "age": 2,
-    "price": 15,
-    "image": "https://placedog.net/200/300",
+    "price": 1700,
+    "image": "https://www.vidavetcare.com/wp-content/uploads/sites/234/2022/04/golden-retriever-dog-breed-info.jpeg",
     "description": "Max is a friendly and obedient Golden Retriever. This breed is known for its intelligence and gentle nature, making Max a wonderful addition to any household. With Max, you'll enjoy leisurely walks and quality bonding time. Golden Retrievers are generally easy to train and require moderate exercise, making them suitable for individuals or families with an active lifestyle"
   },
   {
@@ -49,8 +49,8 @@
     "name": "Squeakers",
     "species": "Hamster",
     "age": 1,
-    "price": 18,
-    "image": "https://placehamster.com/200/300",
+    "price": 350,
+    "image": "https://www.animalfunfacts.net/images/stories/pets/hamster/campbell_dwarf_hamster_house_l.jpg",
     "description": "Squeakers is a tiny and adorable Dwarf Campbell hamster. Despite their small size, these hamsters are full of personality and energy. Squeakers enjoys munching on a variety of seeds, and you'll have a great time watching him scurry around his cage and explore his surroundings. Taking care of Squeakers is easy, as Dwarf Campbell hamsters have simple care requirements and can be kept in a cozy habitat."
   },
   {
@@ -58,8 +58,8 @@
     "name": "Mittens",
     "species": "Cat",
     "age": 1,
-    "price": 35,
-    "image": "https://placekitten.com/200/300",
+    "price": 200,
+    "image": "https://www.petfinder.com/static/ddb7fa37af2254d768e8b64500c27805/42291/PF_DomesticShortHairCat_482x260.jpg",
     "description": "Mittens is a playful and curious domestic shorthair cat. With Mittens by your side, you'll never have a dull moment as she loves to explore every nook and cranny of your home. This breed is known for its independent nature and adaptability, making Mittens a perfect choice for both first-time and experienced cat owners. Taking care of Mittens is easy, as she requires regular playtime and a balanced diet to keep her active and healthy."
   },
   {
@@ -67,8 +67,8 @@
     "name": "Rocky",
     "species": "Dog",
     "age": 3,
-    "price": 12,
-    "image": "https://placedog.net/200/300",
+    "price": 1200,
+    "image": "https://www.akc.org/wp-content/uploads/2017/11/Border-Collie-On-White-01.jpg",
     "description": "Rocky is a tough and adventurous Border Collie. Known for their intelligence and agility, Border Collies thrive on mental and physical stimulation. Rocky will be your ideal companion for hiking in the mountains and engaging in various activities. While Border Collies require regular exercise and mental challenges, they are highly trainable and excel in obedience and agility training."
   },
   {
@@ -76,8 +76,8 @@
     "name": "Whiskers",
     "species": "Hamster",
     "age": 2,
-    "price": 22,
-    "image": "https://placehamster.com/200/300",
+    "price": 380,
+    "image": "https://oddlycutepets.com/wp-content/uploads/2023/02/teddy-bear-hamster-featured.jpeg",
     "description": "Whiskers is a cute and cuddly Teddy Bear hamster. With Whiskers, you'll enjoy his adorable appearance and playful personality. Teddy Bear hamsters, also known as Syrian hamsters, are popular pets and make great companions. Whiskers loves nibbling on carrots and exploring his surroundings. Taking care of Whiskers is easy, as Syrian hamsters have simple care requirements and can be housed comfortably in a spacious cage."
   },
   {
@@ -85,8 +85,8 @@
     "name": "Tiger",
     "species": "Cat",
     "age": 4,
-    "price": 30,
-    "image": "https://placekitten.com/200/300",
+    "price": 3000,
+    "image": "https://image.petmd.com/files/styles/863x625/public/2023-04/Maine-coon-cat.jpg",
     "description": "Tiger is a regal and majestic Maine Coon cat. This breed is known for its large size, tufted ears, and striking appearance. Tiger loves lounging on his cozy throne and observing his kingdom. Despite their majestic appearance, Maine Coons are gentle and affectionate cats that make excellent companions. Taking care of Tiger is easy, as Maine Coons have a laid-back temperament and require regular grooming to keep their beautiful coat in top shape."
   },
   {
@@ -94,8 +94,8 @@
     "name": "Bear",
     "species": "Dog",
     "age": 1,
-    "price": 8,
-    "image": "https://placedog.net/200/300",
+    "price": 1100,
+    "image": "https://static1.squarespace.com/static/54e7a1a6e4b08db9da801ded/t/61eb41b698b5f077a9637a40/1642807755677/81.jpg?format=1500w",
     "description": "Bear is a cute and cuddly Golden Retriever puppy. With Bear, you'll have a playful and affectionate companion who loves to spend time with his toys. Golden Retrievers are known for their friendly and sociable nature, making them great family pets. Bear is easy to care for, as he requires regular exercise, basic training, and plenty of love and attention to thrive in a happy and loving home."
   },
   {
@@ -103,8 +103,8 @@
     "name": "Nibbler",
     "species": "Hamster",
     "age": 1,
-    "price": 15,
-    "image": "https://placehamster.com/200/300",
+    "price": 180,
+    "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/11/04/18/488803.jpg",
     "description": "Nibbler is a tiny and curious Syrian hamster. This little ball of energy loves to explore and chew on various objects. Nibbler will keep you entertained with his inquisitive nature and adorable antics. Providing him with chew toys and tunnels will satisfy his natural instinct to gnaw and explore. Taking care of Nibbler is easy, as Syrian hamsters have straightforward care requirements and thrive in a suitable habitat."
   },
   {
@@ -112,8 +112,8 @@
     "name": "Princess",
     "species": "Cat",
     "age": 2,
-    "price": 40,
-    "image": "https://placekitten.com/200/300",
+    "price": 2300,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Persialainen.jpg",
     "description": "Princess is a beautiful and elegant Persian cat. With her luxurious coat and regal demeanor, Princess is sure to captivate everyone's attention. This breed requires regular grooming to maintain their long, silky fur. Princess loves to be pampered and enjoys a calm and peaceful environment. Taking care of Princess requires dedication to grooming, occasional bathing, and providing her with a cozy space to relax."
   },
   {
@@ -121,8 +121,8 @@
     "name": "Rufus",
     "species": "Dog",
     "age": 5,
-    "price": 20,
-    "image": "https://placedog.net/200/300",
+    "price": 1400,
+    "image": "https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg",
     "description": "Rufus is a loyal and protective German Shepherd. With his intelligent and trainable nature, Rufus will quickly become an important member of your family. He loves to play in the park, especially fetch and interactive games that challenge his mental and physical abilities. German Shepherds are known for their loyalty and protective instincts, making them excellent companions. Rufus is easy to care for, but he requires regular exercise, training, and socialization to thrive."
   },
   {
@@ -130,8 +130,8 @@
     "name": "Pipsqueak",
     "species": "Hamster",
     "age": 1,
-    "price": 19,
-    "image": "https://placehamster.com/200/300",
+    "price": 130,
+    "image": "https://dwarfhamsterguide.com/wp-content/uploads/2018/08/rOBO-DWARF-1024x768.jpg",
     "description": "Pipsqueak is an adorable and tiny Roborovski hamster. These hamsters are known for their energetic nature and love for running on wheels. Pipsqueak will provide you with endless entertainment as he scurries around his cage and explores his surroundings. Roborovski hamsters have simple care requirements and can be kept in a spacious cage with plenty of toys and hiding spots."
   },
   {
@@ -139,8 +139,8 @@
     "name": "Simba",
     "species": "Cat",
     "age": 3,
-    "price": 35,
-    "image": "https://placekitten.com/200/300",
+    "price": 450,
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F47%2F2021%2F04%2F20%2Fbengal-wood-walking-867775498-2000.jpg",
     "description": "Simba is a brave and adventurous Bengal cat. With his striking coat and wild appearance, Simba embodies the spirit of the jungle. Bengals are highly active and intelligent cats that enjoy exploring and climbing. Simba will keep you on your toes with his playful antics and love for interactive toys. Taking care of Simba is easy, as Bengals have a short and low-maintenance coat, but they require mental and physical stimulation to prevent boredom."
   },
   {
@@ -148,8 +148,8 @@
     "name": "Charlie",
     "species": "Dog",
     "age": 2,
-    "price": 18,
-    "image": "https://placedog.net/200/300",
+    "price": 2000,
+    "image": "https://cdn.shopify.com/s/files/1/0175/1403/7302/articles/Blog_Photo_Feb_16_Lab_Article_600x.png?v=1613492250",
     "description": "Charlie is a friendly and playful Labrador Retriever. With his cheerful personality and wagging tail, Charlie is always ready to make new friends. Labrador Retrievers are known for their sociable nature and love for outdoor activities. Charlie enjoys chasing his tail and playing fetch. Taking care of Charlie is easy, as Labradors have a relatively low-maintenance coat and require regular exercise and mental stimulation to keep them happy and healthy."
   },
   {
@@ -157,8 +157,8 @@
     "name": "Niblet",
     "species": "Hamster",
     "age": 1,
-    "price": 17,
-    "image": "https://placehamster.com/200/300",
+    "price": 90,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Campbells_dwarf.jpg",
     "description": "Niblet is a curious and active Campbell's Dwarf hamster. This little bundle of energy loves to run on his wheel and explore his surroundings. Niblet will keep you entertained with his playful behavior and adorable appearance. Campbell's Dwarf hamsters have simple care requirements and can be housed comfortably in a suitable cage with plenty of enrichment"
   },
   {
@@ -166,7 +166,7 @@
     "name": "Luna",
     "species": "Cat",
     "age": 1,
-    "price": 30,
+    "price": 300,
     "image": "https://placekitten.com/200/300",
     "description": " Luna is a cute and cuddly Domestic Shorthair cat. With her playful and mischievous nature, Luna will bring joy and laughter to your home. She loves to chase and play with string toys, providing you with endless entertainment. Domestic Shorthairs are known for their adaptability and easy-going personalities, making Luna a wonderful companion. Taking care of Luna is easy, as she requires regular playtime, a balanced diet, and regular veterinary check-ups."
   },
@@ -175,8 +175,8 @@
     "name": "Cooper",
     "species": "Dog",
     "age": 4,
-    "price": 22,
-    "image": "https://placedog.net/200/300",
+    "price": 1800,
+    "image": "https://www.zooplus.ie/magazine/wp-content/uploads/2020/05/Golden-retriever-dog-breed.jpg",
     "description": "Cooper is a friendly and loyal Golden Retriever. With his gentle and affectionate nature, Cooper is a beloved family pet. He enjoys going on long walks and exploring the outdoors. Golden Retrievers are known for their friendly temperament and love for outdoor activities. Cooper is easy to care for, as he requires regular exercise, basic training, and plenty of love and attention to thrive in a happy and loving home"
   },
   {
@@ -184,232 +184,8 @@
     "name": "Snuggles",
     "species": "Hamster",
     "age": 2,
-    "price": 25,
-    "image": "https://placehamster.com/200/300",
+    "price": 230,
+    "image": "https://squeaksandnibbles.com/wp-content/uploads/2018/04/Winter-White-Hamster-Facts-Everything-You-Need-to-Know-SN-long.jpg",
     "description": "Snuggles is a cute and cuddly Winter White Dwarf hamster. As the name suggests, Snuggles loves to snuggle up and nap in his cozy bed. He has a gentle and docile personality, making him a perfect pet for relaxation and companionship. Winter White Dwarf hamsters have simple care requirements and can be housed comfortably in a suitable cage with nesting material and enrichment"
-  },
-
-
-
-
-
-
-
-
-
-  {
-    "name": "Dog food",
-    "Brand": "ACANA",
-    "Package": "17kg",
-    "price": 209,
-    "image": "",
-    "description": "Acana Adult Large Breed is made with a variety of fresh, Canadian products. Acana Adult for adult dogs of large breeds is rich in protein and low in carbohydrates, thus as close as possible to the natural diet of dogs. Acana Large Breed does not contain wheat, corn or gluten and is therefore the ideal dry food for large breed dogs. Acana Adult Large Breed uses three particularly high-quality protein sources."
-  },
-
-  {
-    "name": "Cat food",
-    "Brand": "Whiskas",
-    "Package": "14kg",
-    "price": 119,
-    "image": "",
-    "description": "WHISKAS JUNIOR food provides the cat with all the nutrients necessary for normal and healthy development.WHISKAS JUNIOR contains delicious, crunchy granules with filling. WHISKAS JUNIOR contains all the nutrients your cat needs to grow healthy and happy, calcium for healthy teeth and bones, protein to maintain rapid growth, a balanced content of vitamins and granules in forms that are easily chewed by kittens.INGREDIENTS: Meat and meat derivatives (including 4% chickens in light brown granules), cereals, oils and fats, plant protein extracts, plant derivatives, minerals, vegetables, milk and milk derivatives (4% milk in milk granules)."
-  },
-
-  {
-    "name": "Hamster food",
-    "Brand": "Versele Laga",
-    "Package": "20kg",
-    "price": 107,
-    "image": "",
-    "description": "Complete and tasty food for hamsters, fully meeting the requirements for these small animals. Hamster Cristy is rich in Vitamin E, nuts, seeds and grains.\n\n"
-  },
-  {
-    "name": "Dog Toy",
-    "Brand": "Camon",
-    "material": "Fabric",
-    "price": 5.80,
-    "image": "",
-    "description": "Fun fabric dog toy in the shape of a bone. Available in different colors."
-  },
-  {
-    "name": "Cat Toy",
-    "Brand": "Camon ",
-    "material": "plush",
-    "price": 6.30,
-    "image": "",
-    "description": "A mouse with a rope tail for your kitty."
-  },
-  {
-    "name": "Hamster toy",
-    "Brand": "Camon",
-    "material": "Durable bamboo",
-    "price": 23,
-    "image": "",
-    "description": "This product features 5 unique foraging designs that provide a variety of foraging experiences for small pets. The most intriguing of these is likely the bamboo foraging roll, which is sure to leave your little critters ecstatic."
-  },
-  {
-    "name": "Bird Cage",
-    "Brand": "Vision",
-    "Size": "Large",
-    "price": 79.99,
-    "image": "",
-    "description": "This spacious bird cage by Vision provides ample room for your feathered friend to move and explore. The cage features multiple perches, feeding dishes, and a convenient slide-out tray for easy cleaning. Its innovative design ensures excellent ventilation and visibility for your bird's well-being"
-  },
-
-  {
-    "name": "Fish tank",
-    "Brand": "Fluval ",
-    "Size": "50L",
-    "price": 129.99,
-    "image": "",
-    "description": "Create a stunning aquatic display with the Fluval fish tank. Made from high-quality glass, this tank offers a clear view of your underwater world. It includes a powerful filtration system, LED lighting, and a heater, providing a comfortable and healthy environment for your fish. The tank's sleek design will enhance any living space"
-  },
-  {
-    "name": "Rabbit Hutch",
-    "Brand": "Midwest Homes for Pets",
-    "•Size": "Extra Large",
-    "price": 189.99,
-    "image": "",
-    "description": "Give your rabbit a cozy and secure home with this spacious hutch. The hutch features multiple levels, a comfortable resting area, and a separate enclosed section for privacy. It is built with durable materials and includes a removable tray for easy cleaning. The hutch also has a wire mesh design to ensure proper ventilation"
-  },
-  {
-    "name": "Reptile Terrarium",
-    "Brand": "Exo Terra",
-    "Size": "Medium",
-    "price": 89.99,
-    "image": "",
-    "description": "Create a natural habitat for your reptile with the Exo Terra terrarium. This glass enclosure provides optimal visibility and comes with a secure locking system. It features a waterproof bottom, multiple access points, and integrated lighting fixtures for easy setup. The terrarium offers a safe and comfortable living space for your scaly companion"
-  },
-  {
-    "name": "Small Animal Bedding",
-    "Brand": "Kaytee ",
-    "Type": "Natural Paper Bedding",
-    "price": 9.99,
-    "image": "",
-    "description": "Keep your small pet's habitat clean and cozy with Kaytee natural paper bedding. Made from recycled paper, this bedding is highly absorbent, controls odors, and is dust-free, ensuring a comfortable and healthy environment. It's ideal for small animals like hamsters, guinea pigs, and rabbits."
-  },
-
-
-  {
-    "name": "Dog Collar",
-    "Brand": "Ruffwear ",
-    "Size": "Medium",
-    "price": 29.99,
-    "image": "",
-    "description": "This durable and stylish dog collar by Ruffwear is designed for active dogs. It features a comfortable padded lining, a sturdy buckle closure, and a separate attachment point for ID tags. The collar also has reflective trim for increased visibility during nighttime walks, ensuring your furry friend stays safe and secure."
-  },
-
-
-  {
-    "name": "Cat Litter",
-    "Brand": "World's Best Cat Litter ",
-    "Size": "7kg",
-    "price": 14.99,
-    "image": "",
-    "description": "Keep your cat's litter box fresh and odor-free with World's Best Cat Litter. This premium clumping litter is made from natural corn, providing excellent odor control and easy scooping. It is also flushable and septic-safe, making cleanup a breeze. Give your cat a comfortable and hygienic litter experience with this top-quality product"
-  },
-
-
-  {
-    "name": "Fish Food",
-    "Brand": "Tetra ",
-    "Size": "80g",
-    "price": 5.99,
-    "image": "",
-    "description": "Nourish your tropical fish with Tetra Tropical Flakes. These nutrient-rich flakes provide a balanced diet for a variety of tropical fish species. Packed with essential vitamins and minerals, they promote vibrant colors and optimal health. The flakes are easy to digest and help maintain clear water. Treat your fish to a tasty and nutritious meal with this trusted brand"
-  },
-
-
-  {
-    "name": "Bird Seed",
-    "Brand": "Kaytee ",
-    "Package": "2.3 kg\"",
-    "price": 12.99,
-    "image": "",
-    "description": "A nutritious blend of seeds and grains specifically formulated for pet birds. It provides essential vitamins, minerals, and proteins to support their overall health. The seed mix is suitable for a variety of bird species and encourages natural foraging behaviors"
-  },
-
-
-  {
-    "name": "Fish Food",
-    "Brand": "Tetra ",
-    "Package": "34g",
-    "price": 4.99,
-    "image": "",
-    "description": "A high-quality fish food that promotes vibrant color and optimal nutrition for your aquarium fish. The formula is designed to enhance fish growth and support their immune system. Suitable for both tropical and freshwater fish."
-  },
-
-
-  {
-    "name": "Rabbit Food",
-    "Brand": "Oxbow ",
-    "Package": "1.8 kg",
-    "price": 19.99,
-    "image": "",
-    "description": "A premium blend of pellets, hay, and greens formulated specifically for rabbits. It provides essential fiber, vitamins, and minerals for their overall well-being. The food is rich in natural ingredients and supports digestive health"
-  },
-
-  {
-    "name": "Guinea Pig Bedding",
-    "Brand": "Carefresh ",
-    "Package": "50 L",
-    "price": 12.49,
-    "image": "",
-    "description": "A comfortable and absorbent bedding option for guinea pigs. It is made from natural paper fibers that are dust-free and hypoallergenic. The bedding helps control odors and provides a soft and cozy environment for your pet."
-  },
-
-  {
-    "name": "Snake Hide",
-    "Brand": "Zoo Med ",
-    "Size": "Medium",
-    "price": 15.99,
-    "image": "",
-    "description": "A naturalistic hideout for snakes, designed to mimic their natural environment. The hide provides a secure and stress-free retreat for your pet snake. It is made of non-toxic materials and has a realistic rock-like appearance."
-  },
-
-  {
-    "name": "Turtle Tank Heater",
-    "Brand": "Fluval ",
-    "Wattage": "100W",
-    "price": 29.99,
-    "image": "",
-    "description": "A reliable and adjustable heater specifically designed for turtle tanks. It ensures a consistent and comfortable water temperature for your aquatic turtles. The heater has a compact design and is easy to install and maintain."
-  },
-
-  {
-    "name": "Small Animal Nail Trimme",
-    "Brand": "Kaytee ",
-    "Size": "30cm",
-    "price": 8.99,
-    "image": "",
-    "description": "A safe and effective tool for trimming the nails of small animals such as rabbits, guinea pigs, and ferrets. The trimmer has a comfortable grip and a stainless steel blade that provides precise cutting. Regular nail trimming helps maintain your pet's nail health and prevents overgrowth"
-  },
-
-  {
-    "name": "Dog Collar",
-    "Brand": "Blueberry Pet ",
-    "Size": "Medium",
-    "price": 14.90,
-    "image": "",
-    "description": "A stylish and durable dog collar made from high-quality nylon material. It features an adjustable buckle for a comfortable fit and a D-ring for leash attachment. The collar is available in various colors and patterns to suit your dog's style"
-  },
-
-  {
-    "name": "Cat Litter",
-    "Brand": "Arm & Hammer ",
-    "Package": "10 kg",
-    "price": 19.99,
-    "image": "",
-    "description": "An odor-neutralizing cat litter that helps keep your home fresh and clean. It clumps tightly for easy scooping and is dust-free, minimizing tracking. The litter is made with baking soda to eliminate odors and is suitable for multi-cat households."
-  },
-
-  {
-    "name": "Reptile UVB Bulb",
-    "Brand": "Exo Terra ",
-    "Wattage": "13W",
-    "price": 24.99,
-    "image": "",
-    "description": "A specialized UVB bulb for reptiles that require UVB light for proper calcium metabolism and vitamin D3 synthesis. The bulb emits optimal UVB wavelengths to support reptile health and natural behaviors. It is suitable for terrariums and vivariums."
   }
 ]
-

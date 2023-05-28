@@ -28,10 +28,10 @@ function Form() {
     setShowValidation(true);
   }
 
-  const firstNameStyle = showValidation && firstName.trim() === "" ? { borderColor: "red" } : {};
-  const lastNameStyle = showValidation && lastName.trim() === "" ? { borderColor: "red" } : {};
-  const emailStyle = showValidation && !/^[red" } : {};
-  const emailStyle = showValidation && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) ? { borderColor: "red" } : {};
+  const firstNameStyle =
+    showValidation && firstName.trim() === "" ? { borderColor: "red" } : {};
+  const lastNameStyle =
+    showValidation && lastName.trim() === "" ? { borderColor: "red" } : {};
 
   return (
     <form onSubmit={handleSubmit}>
@@ -78,6 +78,6 @@ function Form() {
       <button type="button" onClick={handleBuyNow}>
         Buy Now!
       </button>
-      {/* {showValidation && (
-        <div style={{ color: "red" }}>
-          Please enter a valid firstHere's the updated code for the `Form` component that includes the "Buy Now!" button and the validation logic to highlight the fields that don't validate in red and show an appropriate warning message: */}
+    </form>
+  );
+}

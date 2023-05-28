@@ -9,14 +9,14 @@ function PetList({ history }) {
   const [selectedSpecies, setSelectedSpecies] = useState("None");
   const [selectedSortOrder, setSelectedSortOrder] = useState("Ascending");
   const [currentPage, setCurrentPage] = useState(1);
-  const itemsPerPage = 10;
+  const itemsPerPage = 9;
 
   const speciesOptions = ["None", "Dog", "Cat", "Hamster"];
   const sortOptions = ["Price"];
   const sortOrderOptions = ["Ascending", "Descending"];
 
   useEffect(() => {
-    fetch("pets.json")
+    fetch("items.json")
       .then((response) => response.json())
       .then((data) => {
         setPets(data);
@@ -66,7 +66,7 @@ function PetList({ history }) {
   };
 
   const handleClick = (id) => {
-    let url = `/pet/${id}`;
+    let url = `/item/${id}`;
     window.location.href = url;
   };
 

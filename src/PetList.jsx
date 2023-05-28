@@ -10,7 +10,7 @@ function PetList({ history }) {
   const [selectedSort, setSelectedSort] = useState("None");
   const [selectedSortOrder, setSelectedSortOrder] = useState("Ascending");
   const [currentPage, setCurrentPage] = useState(1);
-  const itemsPerPage = 10;
+  const itemsPerPage = 9;
 
   const speciesOptions = ["None", "Dog", "Cat", "Hamster"];
   const sortOptions = ["None", "Age", "Price"];
@@ -117,7 +117,7 @@ function PetList({ history }) {
 
         <ul>
           {currentItems.map((pet) => (
-            <div>
+            <div className="pet">
               <li key={pet.id} onClick={() => handleClick(pet.id)}>
                 <img src={pet.image} alt={pet.name} />
                 <h3>{pet.name}</h3>

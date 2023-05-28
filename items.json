@@ -2,233 +2,257 @@
   {
     "id": 1,
     "name": "Dog food",
+    "species": "Dog",
     "Brand": "ACANA",
     "Package": "17kg",
     "price": 209,
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/61juW0OvHBL._AC_SL1280_.jpg",
     "description": "Acana Adult Large Breed is made with a variety of fresh, Canadian products. Acana Adult for adult dogs of large breeds is rich in protein and low in carbohydrates, thus as close as possible to the natural diet of dogs. Acana Large Breed does not contain wheat, corn or gluten and is therefore the ideal dry food for large breed dogs. Acana Adult Large Breed uses three particularly high-quality protein sources."
   },
 
   {
     "id": 2,
     "name": "Cat food",
+    "species": "Cat",
     "Brand": "Whiskas",
     "Package": "14kg",
     "price": 119,
-    "image": "",
+    "image": "https://p1.akcdn.net/full/401551462.whiskas-junior-chicken-dry-food-14-kg.jpg",
     "description": "WHISKAS JUNIOR food provides the cat with all the nutrients necessary for normal and healthy development.WHISKAS JUNIOR contains delicious, crunchy granules with filling. WHISKAS JUNIOR contains all the nutrients your cat needs to grow healthy and happy, calcium for healthy teeth and bones, protein to maintain rapid growth, a balanced content of vitamins and granules in forms that are easily chewed by kittens.INGREDIENTS: Meat and meat derivatives (including 4% chickens in light brown granules), cereals, oils and fats, plant protein extracts, plant derivatives, minerals, vegetables, milk and milk derivatives (4% milk in milk granules)."
   },
 
   {
     "id": 3,
     "name": "Hamster food",
+    "species": "Hamster",
     "Brand": "Versele Laga",
     "Package": "20kg",
     "price": 107,
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/91z5oWefWpL.jpg",
     "description": "Complete and tasty food for hamsters, fully meeting the requirements for these small animals. Hamster Cristy is rich in Vitamin E, nuts, seeds and grains.\n\n"
   },
   {
     "id": 4,
     "name": "Dog Toy",
+    "species": "Dog",
     "Brand": "Camon",
     "Package": "Fabric",
     "price": 5.8,
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/71QkjFv83mL.jpg",
     "description": "Fun fabric dog toy in the shape of a bone. Available in different colors."
   },
   {
     "id": 5,
     "name": "Cat Toy",
+    "species": "Cat",
     "Brand": "Camon ",
     "Package": "plush",
     "price": 6.3,
-    "image": "",
+    "image": "https://ae01.alicdn.com/kf/Haa72cfd4225341e98ebacb8ea15720926/Lovely-Stripe-Nylon-Rope-Round-Ball-Mouse-Long-Tail-Bell-Pet-Cat-Bite-Play-Toy-Training.jpg_Q90.jpg_.webp",
     "description": "A mouse with a rope tail for your kitty."
   },
   {
     "id": 6,
     "name": "Hamster toy",
+    "species": "Hamster",
     "Brand": "Camon",
     "Package": "Durable bamboo",
     "price": 23,
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/71uRqerzZYL._AC_SX425_.jpg",
     "description": "This product features 5 unique foraging designs that provide a variety of foraging experiences for small pets. The most intriguing of these is likely the bamboo foraging roll, which is sure to leave your little critters ecstatic."
   },
   {
     "id": 7,
     "name": "Bird Cage",
+    "species": "Bird",
     "Brand": "Vision",
     "Package": "Large",
     "price": 79.99,
-    "image": "",
+    "image": "https://media.istockphoto.com/id/1061070090/photo/success-concept-open-birds-cell-isolation-on-a-white-background-3d-illustration.jpg?s=612x612&w=0&k=20&c=XLtA-Ms-dOjiORRkLU_IxJYYs8Kz6vozaEj9MAWhdfM=",
     "description": "This spacious bird cage by Vision provides ample room for your feathered friend to move and explore. The cage features multiple perches, feeding dishes, and a convenient slide-out tray for easy cleaning. Its innovative design ensures excellent ventilation and visibility for your bird's well-being"
   },
 
   {
     "id": 8,
     "name": "Fish tank",
+    "species": "Fish",
     "Brand": "Fluval ",
     "Package": "50L",
     "price": 129.99,
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/81o9cjGa73L.jpg",
     "description": "Create a stunning aquatic display with the Fluval fish tank. Made from high-quality glass, this tank offers a clear view of your underwater world. It includes a powerful filtration system, LED lighting, and a heater, providing a comfortable and healthy environment for your fish. The tank's sleek design will enhance any living space"
   },
   {
     "id": 9,
     "name": "Rabbit Hutch",
+    "species": "Rabbit",
     "Brand": "Midwest Homes for Pets",
     "Package": "Extra Large",
     "price": 189.99,
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/71kKc9UmWcL.jpg",
     "description": "Give your rabbit a cozy and secure home with this spacious hutch. The hutch features multiple levels, a comfortable resting area, and a separate enclosed section for privacy. It is built with durable materials and includes a removable tray for easy cleaning. The hutch also has a wire mesh design to ensure proper ventilation"
   },
   {
     "id": 10,
     "name": "Reptile Terrarium",
+    "species": "Reptile",
     "Brand": "Exo Terra",
     "Package": "Medium",
     "price": 89.99,
-    "image": "",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71zUiTvzKHL._AC_UL600_SR600,600_.jpg",
     "description": "Create a natural habitat for your reptile with the Exo Terra terrarium. This glass enclosure provides optimal visibility and comes with a secure locking system. It features a waterproof bottom, multiple access points, and integrated lighting fixtures for easy setup. The terrarium offers a safe and comfortable living space for your scaly companion"
   },
   {
     "id": 11,
     "name": "Small Animal Bedding",
+    "species": "Hamster",
     "Brand": "Kaytee ",
     "Package": "Natural Paper Bedding",
     "price": 9.99,
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/91Ybfp7nWKL._AC_UF1000,1000_QL80_.jpg",
     "description": "Keep your small pet's habitat clean and cozy with Kaytee natural paper bedding. Made from recycled paper, this bedding is highly absorbent, controls odors, and is dust-free, ensuring a comfortable and healthy environment. It's ideal for small animals like hamsters, guinea pigs, and rabbits."
   },
 
   {
     "id": 12,
     "name": "Dog Collar",
+    "species": "Dog",
     "Brand": "Ruffwear ",
     "Package": "Medium",
     "price": 29.99,
-    "image": "",
+    "image": "data:image/jpeg;base64,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",
     "description": "This durable and stylish dog collar by Ruffwear is designed for active dogs. It features a comfortable padded lining, a sturdy buckle closure, and a separate attachment point for ID tags. The collar also has reflective trim for increased visibility during nighttime walks, ensuring your furry friend stays safe and secure."
   },
 
   {
     "id": 13,
     "name": "Cat Litter",
+    "species": "Cat",
     "Brand": "World's Best Cat Litter ",
     "Package": "7kg",
     "price": 14.99,
-    "image": "",
+    "image": "https://www.litter-robot.com/media/wysiwyg/Litter-Robot/cms/home/lr_feature_image.png",
     "description": "Keep your cat's litter box fresh and odor-free with World's Best Cat Litter. This premium clumping litter is made from natural corn, providing excellent odor control and easy scooping. It is also flushable and septic-safe, making cleanup a breeze. Give your cat a comfortable and hygienic litter experience with this top-quality product"
   },
 
   {
     "id": 14,
     "name": "Fish Food",
+    "species": "Fish",
     "Brand": "Tetra ",
     "Package": "80g",
     "price": 5.99,
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/81FJtYXERmL._AC_UF1000,1000_QL80_.jpg",
     "description": "Nourish your tropical fish with Tetra Tropical Flakes. These nutrient-rich flakes provide a balanced diet for a variety of tropical fish species. Packed with essential vitamins and minerals, they promote vibrant colors and optimal health. The flakes are easy to digest and help maintain clear water. Treat your fish to a tasty and nutritious meal with this trusted brand"
   },
 
   {
     "id": 15,
     "name": "Bird Seed",
+    "species": "Bird",
     "Brand": "Kaytee ",
     "Package": "2.3 kg\"",
     "price": 12.99,
-    "image": "",
+    "image": "data:image/jpeg;base64,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",
     "description": "A nutritious blend of seeds and grains specifically formulated for pet birds. It provides essential vitamins, minerals, and proteins to support their overall health. The seed mix is suitable for a variety of bird species and encourages natural foraging behaviors"
   },
 
   {
     "id": 16,
     "name": "Fish Food",
+    "species": "Fish",
     "Brand": "Tetra ",
     "Package": "34g",
     "price": 4.99,
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/615OZ+A90hL._AC_UF1000,1000_QL80_.jpg",
     "description": "A high-quality fish food that promotes vibrant color and optimal nutrition for your aquarium fish. The formula is designed to enhance fish growth and support their immune system. Suitable for both tropical and freshwater fish."
   },
 
   {
     "id": 17,
     "name": "Rabbit Food",
+    "species": "Rabbit",
     "Brand": "Oxbow ",
     "Package": "1.8 kg",
     "price": 19.99,
-    "image": "",
+    "image": "data:image/jpeg;base64,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",
     "description": "A premium blend of pellets, hay, and greens formulated specifically for rabbits. It provides essential fiber, vitamins, and minerals for their overall well-being. The food is rich in natural ingredients and supports digestive health"
   },
 
   {
     "id": 18,
     "name": "Guinea Pig Bedding",
+    "species": "Hamster",
     "Brand": "Carefresh ",
     "Package": "50 L",
     "price": 12.49,
-    "image": "",
+    "image": "https://www.guineapiggles.co.uk/wp-content/uploads/2021/04/guineapig-bedding-hemp-pine-shavings-mixed.jpeg",
     "description": "A comfortable and absorbent bedding option for guinea pigs. It is made from natural paper fibers that are dust-free and hypoallergenic. The bedding helps control odors and provides a soft and cozy environment for your pet."
   },
 
   {
     "id": 19,
     "name": "Snake Hide",
+    "species": "Snake",
     "Brand": "Zoo Med ",
     "Package": "Medium",
     "price": 15.99,
-    "image": "",
+    "image": "https://mypetreptiles.com/wp-content/uploads/2021/07/best-ball-python-hides.webp",
     "description": "A naturalistic hideout for snakes, designed to mimic their natural environment. The hide provides a secure and stress-free retreat for your pet snake. It is made of non-toxic materials and has a realistic rock-like appearance."
   },
 
   {
     "id": 20,
     "name": "Turtle Tank Heater",
+    "species": "Turtle",
     "Brand": "Fluval ",
     "Package": "100W",
     "price": 29.99,
-    "image": "",
+    "image": "https://s7d2.scene7.com/is/image/PetSmart/5111830",
     "description": "A reliable and adjustable heater specifically designed for turtle tanks. It ensures a consistent and comfortable water temperature for your aquatic turtles. The heater has a compact design and is easy to install and maintain."
   },
 
   {
     "id": 21,
     "name": "Small Animal Nail Trimme",
+    "species": "Hamster",
     "Brand": "Kaytee ",
     "Package": "30cm",
     "price": 8.99,
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/51ncBD1z6KS._AC_UF1000,1000_QL80_.jpg",
     "description": "A safe and effective tool for trimming the nails of small animals such as rabbits, guinea pigs, and ferrets. The trimmer has a comfortable grip and a stainless steel blade that provides precise cutting. Regular nail trimming helps maintain your pet's nail health and prevents overgrowth"
   },
 
   {
     "id": 21,
     "name": "Dog Collar",
+    "species": "Dog",
     "Brand": "Blueberry Pet ",
     "Package": "Medium",
     "price": 14.9,
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/811kXEcuI1L._AC_UF1000,1000_QL80_.jpg",
     "description": "A stylish and durable dog collar made from high-quality nylon material. It features an adjustable buckle for a comfortable fit and a D-ring for leash attachment. The collar is available in various colors and patterns to suit your dog's style"
   },
 
   {
     "id": 22,
     "name": "Cat Litter",
+    "species": "Cat",
     "Brand": "Arm & Hammer ",
     "Package": "10 kg",
     "price": 19.99,
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/71Z5a5oCZ2L._AC_UF1000,1000_QL80_.jpg",
     "description": "An odor-neutralizing cat litter that helps keep your home fresh and clean. It clumps tightly for easy scooping and is dust-free, minimizing tracking. The litter is made with baking soda to eliminate odors and is suitable for multi-cat households."
   },
 
   {
     "id": 23,
     "name": "Reptile UVB Bulb",
+    "species": "Reptile",
     "Brand": "Exo Terra ",
     "Package": "13W",
     "price": 24.99,
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/81aiIUiKycS._AC_UF894,1000_QL80_.jpg",
     "description": "A specialized UVB bulb for reptiles that require UVB light for proper calcium metabolism and vitamin D3 synthesis. The bulb emits optimal UVB wavelengths to support reptile health and natural behaviors. It is suitable for terrariums and vivariums."
   }
 ]

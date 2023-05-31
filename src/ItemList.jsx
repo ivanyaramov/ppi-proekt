@@ -87,7 +87,7 @@ function PetList({ history }) {
       <Header />
 
       <div className="pet-list">
-        <h2>Our Available Pets:</h2>
+        <h2>Our Available Items:</h2>
 
         <div className="filter">
           <div>

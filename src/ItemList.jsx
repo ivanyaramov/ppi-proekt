@@ -11,7 +11,15 @@ function PetList({ history }) {
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 9;
 
-  const speciesOptions = ["None", "Dog", "Cat", "Hamster"];
+  const speciesOptions = [
+    "None",
+    "Dog",
+    "Cat",
+    "Hamster",
+    "Rabbit",
+    "Fish",
+    "Turtle",
+  ];
   const sortOptions = ["Price"];
   const sortOrderOptions = ["Ascending", "Descending"];
 
@@ -82,23 +90,30 @@ function PetList({ history }) {
         <h2>Our Available Pets:</h2>
 
         <div className="filter">
-          <select value={selectedSpecies} onChange={handleSpeciesChange}>
-            {speciesOptions.map((option) => (
-              <option key={option} value={option}>
-                {option}
-              </option>
-            ))}
-          </select>
-          <button onClick={handleFilter}>Filter</button>
-
-          <select value={selectedSortOrder} onChange={handleSortOrderChange}>
-            {sortOrderOptions.map((option) => (
-              <option key={option} value={option}>
-                {option}
-              </option>
-            ))}
-          </select>
-          <button onClick={handleSort}>Sort by price</button>
+          <div>
+            <select value={selectedSpecies} onChange={handleSpeciesChange}>
+              {speciesOptions.map((option) => (
+                <option key={option} value={option}>
+                  {option}
+                </option>
+              ))}
+            </select>
+            <button className="filterButton" onClick={handleFilter}>
+              Filter
+            </button>
+          </div>
+          <div>
+            <select value={selectedSortOrder} onChange={handleSortOrderChange}>
+              {sortOrderOptions.map((option) => (
+                <option key={option} value={option}>
+                  {option}
+                </option>
+              ))}
+            </select>
+            <button className="filterButton" onClick={handleSort}>
+              Sort by price
+            </button>
+          </div>
         </div>
 
         <ul>

@@ -22,13 +22,23 @@ function ItemDetails() {
     fetchPet();
   }, [id]);
 
+  const handleBuyNowClick = (id) => {
+    let url = `/buynow/${id}`;
+    window.location.href = url;
+  };
+
   if (!pet) {
     return <div>Loading...</div>;
   }
   return (
     <div>
       <Header />
-
+      <button
+        className="filterButton"
+        onClick={() => handleBuyNowClick(pet.id)}
+      >
+        Buy Now
+      </button>
       <div className="pet-details-container">
         <h2>{pet.name}</h2>
         <img src={pet.image} alt={pet.name} className="pet-image" />

@@ -90,44 +90,53 @@ function PetList({ history }) {
         <h2>Our Available Pets:</h2>
 
         <div className="filter">
-          <select value={selectedSpecies} onChange={handleSpeciesChange}>
-            {speciesOptions.map((option) => (
-              <option key={option} value={option}>
-                {option}
-              </option>
-            ))}
-          </select>
-          <button onClick={handleFilter}>Filter</button>
-          <select value={selectedSort} onChange={handleSortChange}>
-            {sortOptions.map((option) => (
-              <option key={option} value={option}>
-                {option}
-              </option>
-            ))}
-          </select>
-          <select value={selectedSortOrder} onChange={handleSortOrderChange}>
-            {sortOrderOptions.map((option) => (
-              <option key={option} value={option}>
-                {option}
-              </option>
-            ))}
-          </select>
-          <button onClick={handleSort}>Sort</button>
+          <div>
+            <select value={selectedSpecies} onChange={handleSpeciesChange}>
+              {speciesOptions.map((option) => (
+                <option key={option} value={option}>
+                  {option}
+                </option>
+              ))}
+            </select>
+            <button className="filterButton" onClick={handleFilter}>
+              Filter
+            </button>
+          </div>
+          <div>
+            <select value={selectedSort} onChange={handleSortChange}>
+              {sortOptions.map((option) => (
+                <option key={option} value={option}>
+                  {option}
+                </option>
+              ))}
+            </select>
+            <select value={selectedSortOrder} onChange={handleSortOrderChange}>
+              {sortOrderOptions.map((option) => (
+                <option key={option} value={option}>
+                  {option}
+                </option>
+              ))}
+            </select>
+            <button className="filterButton" onClick={handleSort}>
+              Sort
+            </button>
+          </div>
         </div>
-
-        <ul>
-          {currentItems.map((pet) => (
-            <div className="pet">
-              <li key={pet.id} onClick={() => handleClick(pet.id)}>
-                <img src={pet.image} alt={pet.name} />
-                <h3>{pet.name}</h3>
-                <p>Species: {pet.species}</p>
-                <p>Price {pet.price}$</p>
-                <p>Age: {pet.age} years old</p>
-              </li>
-            </div>
-          ))}
-        </ul>
+        <div className="aligned">
+          <div className="petMany">
+            {currentItems.map((pet) => (
+              <div className="pet">
+                <li key={pet.id} onClick={() => handleClick(pet.id)}>
+                  <img src={pet.image} alt={pet.name} />
+                  <h3>{pet.name}</h3>
+                  <p>Species: {pet.species}</p>
+                  <p>Price {pet.price}$</p>
+                  <p>Age: {pet.age} years old</p>
+                </li>
+              </div>
+            ))}
+          </div>
+        </div>
 
         <div className="pagination">
           <button onClick={handlePrevPage} disabled={currentPage === 1}>

@@ -1,0 +1,52 @@
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.formDiv {
+  margin-top: 100px;
+}
+
+.label {
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+.input {
+  padding: 0.8rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+}
+
+.submit-button {
+  padding: 0.5rem 1rem;
+  margin-top: 20px;
+  margin-bottom: 150px;
+  font-size: 1rem;
+  background-color: #6c5ce7;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.submitDiv {
+  display: block;
+}
+
+.error-message {
+  color: red;
+  font-size: 0.8rem;
+  margin-top: 0.2rem;
+}
+
+.has-error .input {
+  border-color: red;
+}

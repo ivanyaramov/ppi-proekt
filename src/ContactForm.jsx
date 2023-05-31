@@ -4,11 +4,27 @@ import Header from "./Header.jsx";
 import Footer from "./Footer.jsx";
 import "./ContactForm.css";
 
+function SuccessPopup({ pet, onClose }) {
+  return (
+    <div className="popup">
+      <div className="popup-content success">
+        <h2>Success!</h2>
+        <p>
+          Your purchase request for the {pet.Package} package of {pet.Brand}{" "}
+          {pet.name} has been submitted.
+        </p>
+        <button onClick={onClose}>Close</button>
+      </div>
+    </div>
+  );
+}
+
 function ContactForm() {
   const [firstName, setFirstName] = useState("");
   const [lastName, setLastName] = useState("");
   const [email, setEmail] = useState("");
   const [telephone, setTelephone] = useState("");
+  const [showPopup, setShowPopup] = useState(false);
   const [errors, setErrors] = useState({
     firstName: false,
     lastName: false,
@@ -47,7 +63,12 @@ function ContactForm() {
     });
 
     if (!firstNameError && !lastNameError && !emailError && !telephoneError) {
+      setShowPopup(true);
     }
+  };
+
+  const closePopup = () => {
+    setShowPopup(false);
   };
 
   const isValidEmail = (value) => {
@@ -66,6 +87,7 @@ function ContactForm() {
     <div>
       <Header />
       <div className="formDiv">
+        {showPopup && pet && <SuccessPopup pet={pet} onClose={closePopup} />}
         <form onSubmit={handleSubmit} className="contact-form">
           <div className={`form-group ${errors.firstName ? "has-error" : ""}`}>
             <label htmlFor="firstName" className="label">
@@ -150,6 +172,7 @@ function ContactForm() {
           </div>
         </form>
       </div>
+
       <Footer />
     </div>
   );

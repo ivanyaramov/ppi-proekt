@@ -27,7 +27,6 @@ select {
   cursor: pointer;
 }
 
-/* Style the filter and sort buttons */
 .filterButton {
   display: inline-block;
   padding: 0.5rem 1rem;

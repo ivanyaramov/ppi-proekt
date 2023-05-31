@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import Header from "./Header.jsx";
 import Footer from "./Footer.jsx";
-import "./PetDetails.css"; // import the CSS file
+import "./PetDetails.css";
 
 function PetDetails() {
   const { id } = useParams();

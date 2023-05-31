@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./PetList.css"; // import the CSS file for styling
+import "./PetList.css";
 import Header from "./Header.jsx";
 import Footer from "./Footer.jsx";
 

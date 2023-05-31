@@ -72,4 +72,8 @@
   background-color: #b3e6b3;
   border: 1px solid #4cae4c;
   color: #155724;
+  padding: 40px;
+  width: 400px;
+  max-width: 80%;
+  text-align: center;
 }
